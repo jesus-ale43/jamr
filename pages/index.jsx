@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Home - Jesus A.</title>
+        <title>Home - Jesús A.</title>
         <meta name="description" content="A boy who has nothing to do" />
         <link rel="icon" href="assets/favicon.ico" />
       </Head>
